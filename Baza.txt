@@ -1,0 +1,22 @@
+Имеются следующие группы Телеграм:
+Neurobot_Chery  ID -1002972087933
+Продажа новых автомобилей марки Chery
+Neurobot_Jetour  ID -1004920166613
+Продажа новых автомобилей марки Jetour
+Neurobot_Haval ID -1004894652862
+Продажа новых автомобилей марки Haval
+Neurobot_probeg ID -1002914948690
+Покупкаи продажа  автомобилей с пробегом (б/у, бывших в употреблении) 
+Neurobot_STO_Chery ID -1003182881943
+Слесарный ремонт и техническое обслуживание автомобилей марок Chery, Jetour, Omoda, Tenet, Jaecoo
+Neurobot_Kuzov_Chery ID -1003127031679
+Кузовной ремонт любых автомобилей
+Neurobot_STO_Haval ID -1003159687346
+Слесарный ремонт и техническое обслуживание автомобилей всех марок , кроме Chery, Jetour, Omoda, Tenet, Jaecoo
+Neurobot_Spares_Chery ID -1003186058405
+Продажа запасных частей для автомобилей Chery, Jetour, Omoda, Tenet, Jaecoo
+Neurobot_Spares_Haval ID -1003056030547
+Продажа запасных частей для автомобилей всех марок, кроме Chery, Jetour, Omoda, Tenet, Jaecoo
+Neurobot_Buch ID -1002746330909
+Вопросы к бухгалтерии или бухгалтерам
+Neuro_Other ID -1002944317515

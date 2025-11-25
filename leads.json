@@ -1,0 +1,428 @@
+[
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "repair",
+    "brand": "Volkswagen",
+    "phone": "+79023730808",
+    "slots": {
+      "repair_type": "слесарный"
+    },
+    "created_at": "2025-11-22T12:03:48.067418"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Святослав",
+    "intent": "buy_used",
+    "brand": "Porsche",
+    "phone": "+79023730808",
+    "slots": {
+      "raw_model": "Порше Кайенн"
+    },
+    "created_at": "2025-11-22T15:26:35.784386"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Олег",
+    "intent": "buy_new",
+    "brand": "BMW",
+    "phone": "+79023730808",
+    "slots": {
+      "raw_model": "БМВ"
+    },
+    "created_at": "2025-11-23T06:41:26.485665"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Олег",
+    "intent": "repair",
+    "brand": "BMW",
+    "phone": "+79023730808",
+    "slots": {
+      "repair_details": "кузовной ремонт",
+      "repair_type": "кузовной",
+      "raw_model": "БМВ Х5"
+    },
+    "created_at": "2025-11-23T07:09:05.726102"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Олег",
+    "intent": "repair",
+    "brand": "BMW",
+    "phone": "+79023730808",
+    "slots": {
+      "repair_details": "кузовной ремонт",
+      "repair_type": "кузовной"
+    },
+    "created_at": "2025-11-23T07:36:13.886832"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Олег",
+    "intent": "repair",
+    "brand": "BMW",
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-23T08:07:02.298807"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "олег",
+    "intent": "repair",
+    "brand": "BMW",
+    "phone": "+79023730808",
+    "slots": {
+      "repair_details": "слесарный ремонт",
+      "repair_type": "слесарный",
+      "raw_model": "бмв"
+    },
+    "created_at": "2025-11-23T08:11:12.717512"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Олег",
+    "intent": "repair",
+    "brand": "BMW",
+    "phone": "+79023730808",
+    "slots": {
+      "repair_details": "слесарный ремонт",
+      "repair_type": "слесарный"
+    },
+    "created_at": "2025-11-23T08:14:53.367312"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Олег",
+    "intent": "repair",
+    "brand": "BMW",
+    "phone": "+79023730808",
+    "slots": {
+      "repair_details": "слесарный ремонт",
+      "repair_type": "слесарный"
+    },
+    "created_at": "2025-11-23T08:19:13.485721"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Олег",
+    "intent": "repair",
+    "brand": "BMW",
+    "phone": "+79023730808",
+    "slots": {
+      "repair_details": "слесарный ремонт",
+      "repair_type": "слесарный"
+    },
+    "created_at": "2025-11-23T12:07:01.103180"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Олег",
+    "intent": "repair",
+    "brand": "BMW",
+    "phone": "+79023730808",
+    "slots": {
+      "repair_type": "слесарный",
+      "repair_details": "замена масла в двигателе"
+    },
+    "created_at": "2025-11-23T12:22:05.518522"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Олег",
+    "intent": "repair",
+    "brand": "BMW",
+    "phone": "+79023730808",
+    "slots": {
+      "repair_type": "слесарный",
+      "repair_details": "замена масла в двигателе"
+    },
+    "created_at": "2025-11-23T12:28:43.047015"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Олег",
+    "intent": "repair",
+    "brand": "BMW",
+    "phone": "+79023730808",
+    "slots": {
+      "repair_details": "кузовной ремонт",
+      "repair_type": "кузовной"
+    },
+    "created_at": "2025-11-23T12:38:10.093914"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Олег",
+    "intent": "repair",
+    "brand": "BMW",
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-23T12:42:23.009479"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "repair",
+    "brand": "Volkswagen",
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-23T12:46:32.980104"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "buy_new",
+    "brand": "Jetour",
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-23T13:05:03.038475"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "repair",
+    "brand": "Chery",
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-23T13:05:32.614574"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "accounting",
+    "brand": null,
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-23T13:05:42.534526"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "buy_new",
+    "brand": "Jetour",
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-23T13:12:03.456628"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "buy_new",
+    "brand": "Jetour",
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-23T13:16:33.003512"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "repair",
+    "brand": "Chery",
+    "phone": "+79023730808",
+    "slots": {
+      "repair_details": "техническое обслуживание",
+      "repair_type": "слесарный"
+    },
+    "created_at": "2025-11-23T13:17:11.324554"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "accounting",
+    "brand": null,
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-23T13:17:24.016684"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "fallback_other",
+    "brand": null,
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-23T13:17:45.856717"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "buy_new",
+    "brand": "Jetour",
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-23T13:24:04.512676"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "repair",
+    "brand": "Chery",
+    "phone": "+79023730808",
+    "slots": {
+      "budget_max": null,
+      "body": null,
+      "drive": null,
+      "repair_type": "слесарный",
+      "raw_model": "Chery Arrizo",
+      "repair_details": "техническое обслуживание"
+    },
+    "created_at": "2025-11-23T13:24:45.116070"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "accounting",
+    "brand": null,
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-23T13:24:58.211121"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "fallback_other",
+    "brand": null,
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-23T13:25:10.296687"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "repair",
+    "brand": "Volkswagen",
+    "phone": "+79023730808",
+    "slots": {
+      "budget_max": null,
+      "body": null,
+      "drive": null,
+      "repair_type": "слесарный",
+      "raw_model": "Тигуан",
+      "repair_details": "замена детали/расходника"
+    },
+    "created_at": "2025-11-25T06:11:32.499488"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "buy_new",
+    "brand": "Jetour",
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-25T06:13:00.178706"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "accounting",
+    "brand": null,
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-25T06:13:29.723011"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "fallback_other",
+    "brand": null,
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-25T06:13:58.005248"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "repair",
+    "brand": "Volkswagen",
+    "phone": "+79023730808",
+    "slots": {
+      "budget_max": null,
+      "body": null,
+      "drive": null,
+      "repair_type": "слесарный",
+      "raw_model": "Фв"
+    },
+    "created_at": "2025-11-25T06:33:59.291488"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "buy_new",
+    "brand": "Chery",
+    "phone": "+79023730808",
+    "slots": {
+      "budget_max": 3000000,
+      "body": "кроссовер"
+    },
+    "created_at": "2025-11-25T06:34:56.406803"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "repair",
+    "brand": "Volkswagen",
+    "phone": "+79023730808",
+    "slots": {
+      "budget_max": null,
+      "body": null,
+      "drive": null,
+      "repair_type": "слесарный",
+      "raw_model": "Тигуан",
+      "repair_details": "техническое обслуживание"
+    },
+    "created_at": "2025-11-25T11:14:29.662497"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "buy_new",
+    "brand": "Jetour",
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-25T11:19:10.291191"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "fallback_other",
+    "brand": null,
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-25T11:19:42.347601"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "repair",
+    "brand": "Volkswagen",
+    "phone": "+79023730808",
+    "slots": {
+      "budget_max": null,
+      "body": null,
+      "drive": null,
+      "repair_type": "слесарный",
+      "raw_model": "Тигуан",
+      "repair_details": "техническое обслуживание"
+    },
+    "created_at": "2025-11-25T11:34:02.877641"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "buy_new",
+    "brand": "Jetour",
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-25T11:37:53.210361"
+  },
+  {
+    "user_id": 5216076858,
+    "name": "Роман",
+    "intent": "fallback_other",
+    "brand": null,
+    "phone": "+79023730808",
+    "slots": {},
+    "created_at": "2025-11-25T11:38:18.525508"
+  }
+]

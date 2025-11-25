@@ -1,0 +1,11 @@
+aiogram>=3.4
+loguru
+pydantic>=2
+pydantic-settings>=2.0.0
+httpx
+python-dotenv
+pandas>=2.0.0
+openpyxl>=3.1.0
+faiss-cpu>=1.7.4
+nest-asyncio>=1.5.0
+
